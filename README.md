@@ -222,7 +222,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details and contribute. ;)
 ## Courses
 *Courses about object-oriented programming and related concepts.*
 
-* *...more to come...*
+* [Discover object-oriented programming using WordPress](https://carlalexander.ca/object-oriented-programming-wordpress/) - Learn the fundamentals of OOP using WordPress concepts and terminology.
 
 ## Books
 *Fantastic and must-read books about object-oriented programming, analysis, design and related concepts.*
